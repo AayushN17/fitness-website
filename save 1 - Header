@@ -1,0 +1,18 @@
+test.html
+
+<link rel="stylesheet" href="styles.css">
+
+<div class="header">
+  <h1>Ultimate Fitness Website</h1>
+  <p>By Aayush</p>
+</div>
+
+
+styles.css
+.header {
+  padding: 3px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
